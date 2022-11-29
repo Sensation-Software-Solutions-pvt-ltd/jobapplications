@@ -1,0 +1,9 @@
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\bin\Debug\netcoreapp3.1\JobApplications.Domain.deps.json
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\bin\Debug\netcoreapp3.1\JobApplications.Domain.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\bin\Debug\netcoreapp3.1\JobApplications.Domain.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.csprojAssemblyReference.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.AssemblyInfoInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.AssemblyInfo.cs
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.csproj.CoreCompileInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Domain\obj\Debug\netcoreapp3.1\JobApplications.Domain.pdb

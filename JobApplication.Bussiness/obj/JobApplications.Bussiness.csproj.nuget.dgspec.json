@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Bussiness\\JobApplications.Bussiness.csproj": {}
+  },
+  "projects": {
+    "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Bussiness\\JobApplications.Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Bussiness\\JobApplications.Bussiness.csproj",
+        "projectName": "JobApplications.Bussiness",
+        "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Bussiness\\JobApplications.Bussiness.csproj",
+        "packagesPath": "C:\\Users\\akumar3\\.nuget\\packages\\",
+        "outputPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akumar3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\JobApplications.Domain.csproj": {
+                "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\JobApplications.Domain.csproj"
+              },
+              "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\JobApplications.Repostory.csproj": {
+                "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\JobApplications.Repostory.csproj"
+              },
+              "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj": {
+                "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\JobApplications.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\JobApplications.Domain.csproj",
+        "projectName": "JobApplications.Domain",
+        "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\JobApplications.Domain.csproj",
+        "packagesPath": "C:\\Users\\akumar3\\.nuget\\packages\\",
+        "outputPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akumar3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\JobApplications.Repostory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\JobApplications.Repostory.csproj",
+        "projectName": "JobApplications.Repostory",
+        "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\JobApplications.Repostory.csproj",
+        "packagesPath": "C:\\Users\\akumar3\\.nuget\\packages\\",
+        "outputPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Repostory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akumar3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj": {
+                "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj",
+        "projectName": "JobApplications.Utility",
+        "projectPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\JobApplications.Utility.csproj",
+        "packagesPath": "C:\\Users\\akumar3\\.nuget\\packages\\",
+        "outputPath": "F:\\Ashish\\JobApplication\\JobApplication\\JobApplication.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\akumar3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

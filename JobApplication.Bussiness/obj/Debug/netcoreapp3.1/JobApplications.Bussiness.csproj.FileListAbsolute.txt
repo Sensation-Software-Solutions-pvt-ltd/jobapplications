@@ -1,0 +1,16 @@
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Bussiness.deps.json
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Bussiness.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Bussiness.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Domain.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Repostory.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Utility.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Domain.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Repostory.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\bin\Debug\netcoreapp3.1\JobApplications.Utility.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.csprojAssemblyReference.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.AssemblyInfoInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.AssemblyInfo.cs
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.csproj.CoreCompileInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.csproj.CopyComplete
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Bussiness\obj\Debug\netcoreapp3.1\JobApplications.Bussiness.pdb

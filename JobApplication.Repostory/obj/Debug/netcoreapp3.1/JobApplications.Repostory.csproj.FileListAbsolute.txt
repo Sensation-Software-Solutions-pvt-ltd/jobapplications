@@ -1,0 +1,12 @@
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\bin\Debug\netcoreapp3.1\JobApplications.Repostory.deps.json
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\bin\Debug\netcoreapp3.1\JobApplications.Repostory.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\bin\Debug\netcoreapp3.1\JobApplications.Repostory.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\bin\Debug\netcoreapp3.1\JobApplications.Utility.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\bin\Debug\netcoreapp3.1\JobApplications.Utility.pdb
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.csprojAssemblyReference.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.AssemblyInfoInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.AssemblyInfo.cs
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.csproj.CoreCompileInputs.cache
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.csproj.CopyComplete
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.dll
+F:\Ashish\JobApplication\JobApplication\JobApplication.Repostory\obj\Debug\netcoreapp3.1\JobApplications.Repostory.pdb

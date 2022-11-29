@@ -1,0 +1,70 @@
+<div class="card">
+    <h4 class="card-header">Login Form</h4>
+    <div class="card-body">
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+            <div class="form-group">
+                <label for="FirstName">FirstName</label>
+                <input type="text" formControlName="FirstName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.FirstName.errors }" />
+                <div *ngIf="submitted && f.FirstName.errors" class="invalid-feedback">
+                    <div *ngIf="f.FirstName.errors.required">Name is required</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="LastName">LastName</label>
+                <input type="text" formControlName="LastName" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.LastName.errors }" />
+                <div *ngIf="submitted && f.LastName.errors" class="invalid-feedback">
+                    <div *ngIf="f.LastName.errors.required">Lastname is required</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="EmailId">Email</label>
+                <input type="text" formControlName="EmailId" [pattern]="emailPattern" class="form-control" 
+                [ngClass]="{ 'is-invalid': submitted && f.EmailId.errors }" />
+                <div *ngIf="submitted && f.EmailId.errors" class="invalid-feedback">
+                    <div *ngIf="f.EmailId.errors.required">Email is required</div>
+                    <div *ngIf="f.EmailId.errors?.pattern">
+                      Enter Valid Email</div>
+                  </div>
+            </div>
+            <div class="form-group">
+                <label for="date">Choose DOB</label>
+            <input type="date"  class="form-control" formControlName="DOB" placeholder="Choose DOB"
+              [ngClass]="{ 'is-invalid':  f.DOB.errors && submitted}" />
+            <div *ngIf="submitted && f.DOB.errors" class="invalid-feedback">
+              <div *ngIf="f.DOB.errors.required">Please select DOB</div>
+            </div>
+            </div>
+            <div class="form-group">
+                <label for="DocumentData">Upload Cv</label>
+                <input type="file"  class="form-control" formControlName="DocumentData" placeholder="Choose DocumentData"
+                  [ngClass]="{ 'is-invalid':  f.DocumentData.errors && submitted}" />
+                <div *ngIf="submitted && f.DocumentData.errors" class="invalid-feedback">
+                  <div *ngIf="f.DocumentData.errors.required">Please Upload CV</div>
+                </div>
+                </div>
+                <div class="form-group">
+                    <label for="joboptions">Choose your Job</label>
+                <select class="custom-select" (change)="changeJob($event)" formControlName="JobId"
+                [ngClass]="{ 'is-invalid':  f.JobId.errors && submitted}">
+                    <option value="">Choose your Job</option>
+                    <option *ngFor="let jobs of Option" [value]="jobs.id">{{jobs.name}}</option>
+                  </select>
+                  <div class="invalid-feedback" *ngIf="submitted && f.JobId.errors">
+                    Please select joboptions
+                  </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="BirthPlace">Place Of Birth</label>
+                    <input type="text" formControlName="BirthPlace" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.BirthPlace.errors }" />
+                    <div *ngIf="submitted && f.BirthPlace.errors" class="invalid-feedback">
+                        <div *ngIf="f.BirthPlace.errors.required">Place of Birth is required</div>
+                    </div>
+                </div>
+            <div class="form-group">
+                <button class="btn btn-primary">
+                    Login
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
